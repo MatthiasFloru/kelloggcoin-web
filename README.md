@@ -59,3 +59,6 @@
     <td>Sushi</td>
   </tr>
 </table>
+
+<!-- <% else %>
+      <li> from <%= from_user["name"] %> to <%= to_user["name"] %> - <%= transaction["amount"] %> coins</li> -->
